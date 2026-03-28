@@ -1,4 +1,4 @@
-# GA-DRT
+# GADRT
 A Multi-Objective Genetic Algorithm For Finding An Optimized Set Of Virtual Stops In A Collective Public Demand Responsive Transport Service
 
 # ./osrm_walking
